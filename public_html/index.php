@@ -37,7 +37,7 @@
         <br>
         <a href="https://JuanB.juanbojorquezf.repl.co">Replit</a>
         <br>
-        <a href="">Heroku</a>
+        <a href="https://my-paginajuanb-br-main.herokuapp.com/">Heroku</a>
         <br>
         <a href="">Replit</a>
 
