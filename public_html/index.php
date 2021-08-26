@@ -33,7 +33,7 @@
     <br>
     <br>
         <p>Links a otros servidores pero con el mismo contenido:</p>
-        <a href="https://ksguerrero.000webhostapp.com/">000webhost</a>
+        <a href="https://juanrbf.000webhostapp.com/">000webhost</a>
         <br>
         <a href="https://JuanB.juanbojorquezf.repl.co">Replit</a>
         <br>
